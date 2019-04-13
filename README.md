@@ -1,15 +1,12 @@
-<!DOCTYPE html>
+#Teste usando js em html
+    <!DOCTYPE html>
 <html>
     <head>
     </head>
     <body>
+        <input type="date" />
         <script>
-var data={
-  nome:prompt("Entre com seu nome :"),
-
-}
-console.log(data.nome);
-
-        </script>
+            console.log("Douglas");
+            </script>
     </body>
 </html>
